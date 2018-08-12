@@ -1,0 +1,1283 @@
+INFO: loading config from /etc/shadowsocks.json
+2018-08-10 08:26:30 INFO     loading libcrypto from libcrypto.so.1.0.0
+2018-08-10 08:26:30 INFO     starting local at 127.0.0.1:1080
+2018-08-10 08:26:36 INFO     connecting clients4.google.com:443 from 127.0.0.1:59970
+2018-08-10 08:26:38 INFO     connecting www.google.com.hk:443 from 127.0.0.1:59974
+2018-08-10 08:26:39 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:59978
+2018-08-10 08:26:39 INFO     connecting clients5.google.com:443 from 127.0.0.1:59982
+2018-08-10 08:26:39 INFO     connecting ogs.google.com:443 from 127.0.0.1:59986
+2018-08-10 08:26:44 INFO     connecting apis.google.com:443 from 127.0.0.1:59990
+2018-08-10 08:26:44 INFO     connecting notifications.google.com:443 from 127.0.0.1:59992
+2018-08-10 08:26:44 INFO     connecting play.google.com:443 from 127.0.0.1:59994
+2018-08-10 08:26:45 INFO     connecting twitter.com:443 from 127.0.0.1:60004
+2018-08-10 08:26:45 INFO     connecting twitter.com:443 from 127.0.0.1:60006
+2018-08-10 08:26:46 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:26:47 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60014
+2018-08-10 08:26:47 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60016
+2018-08-10 08:26:47 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60018
+2018-08-10 08:26:47 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60020
+2018-08-10 08:26:47 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60022
+2018-08-10 08:26:47 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60024
+2018-08-10 08:26:48 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:60038
+2018-08-10 08:26:48 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:60042
+2018-08-10 08:26:48 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:60048
+2018-08-10 08:26:48 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:60046
+2018-08-10 08:26:48 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:60050
+2018-08-10 08:26:48 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:60058
+2018-08-10 08:26:49 INFO     connecting abs.twimg.com:443 from 127.0.0.1:60062
+2018-08-10 08:26:49 INFO     connecting clients1.google.com:443 from 127.0.0.1:60066
+2018-08-10 08:26:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:26:51 INFO     connecting analytics.twitter.com:443 from 127.0.0.1:60070
+2018-08-10 08:26:51 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:60074
+2018-08-10 08:26:51 INFO     connecting syndication.twitter.com:443 from 127.0.0.1:60078
+2018-08-10 08:26:52 INFO     connecting ton.twimg.com:443 from 127.0.0.1:60082
+2018-08-10 08:26:52 INFO     connecting ton.twimg.com:443 from 127.0.0.1:60084
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:22 INFO     connecting www.googleapis.com:443 from 127.0.0.1:60092
+2018-08-10 08:27:37 INFO     connecting www.google.com:443 from 127.0.0.1:60096
+2018-08-10 08:27:37 INFO     connecting clients5.google.com:443 from 127.0.0.1:60098
+2018-08-10 08:27:40 INFO     connecting www.google.com.hk:443 from 127.0.0.1:60106
+2018-08-10 08:27:40 INFO     connecting adservice.google.com:443 from 127.0.0.1:60110
+2018-08-10 08:27:40 INFO     connecting www.facebook.com:443 from 127.0.0.1:60116
+2018-08-10 08:27:40 INFO     connecting beacons5.gvt3.com:443 from 127.0.0.1:60122
+2018-08-10 08:27:41 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:60126
+2018-08-10 08:27:44 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60130
+2018-08-10 08:27:44 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60132
+2018-08-10 08:27:44 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60134
+2018-08-10 08:27:44 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60136
+2018-08-10 08:27:44 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60138
+2018-08-10 08:27:44 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60142
+2018-08-10 08:27:45 INFO     connecting facebook.com:443 from 127.0.0.1:60154
+2018-08-10 08:27:45 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60158
+2018-08-10 08:27:46 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:60162
+2018-08-10 08:27:46 INFO     connecting fbcdn.net:443 from 127.0.0.1:60166
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 INFO     connecting fbsbx.com:443 from 127.0.0.1:60170
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:27:47 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:60174
+2018-08-10 08:27:47 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:60176
+2018-08-10 08:27:47 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:60178
+2018-08-10 08:27:47 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:60180
+2018-08-10 08:27:47 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:60184
+2018-08-10 08:27:47 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:60182
+2018-08-10 08:27:48 INFO     connecting connect.facebook.net:443 from 127.0.0.1:60198
+2018-08-10 08:28:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:19 INFO     connecting clients5.google.com:443 from 127.0.0.1:60212
+2018-08-10 08:28:24 INFO     connecting www.googletagservices.com:80 from 127.0.0.1:60238
+2018-08-10 08:28:26 INFO     connecting m.trb.com:80 from 127.0.0.1:60310
+2018-08-10 08:28:27 INFO     connecting aax.amazon-adsystem.com:80 from 127.0.0.1:60322
+2018-08-10 08:28:27 INFO     connecting an.facebook.com:443 from 127.0.0.1:60326
+2018-08-10 08:28:27 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:27 INFO     connecting as.casalemedia.com:80 from 127.0.0.1:60330
+2018-08-10 08:28:27 INFO     connecting tribune-d.openx.net:80 from 127.0.0.1:60332
+2018-08-10 08:28:27 INFO     connecting aax.amazon-adsystem.com:80 from 127.0.0.1:60334
+2018-08-10 08:28:27 INFO     connecting an.facebook.com:443 from 127.0.0.1:60342
+2018-08-10 08:28:27 INFO     connecting as.casalemedia.com:80 from 127.0.0.1:60344
+2018-08-10 08:28:27 INFO     connecting tribune-d.openx.net:80 from 127.0.0.1:60348
+2018-08-10 08:28:27 INFO     connecting aax.amazon-adsystem.com:80 from 127.0.0.1:60350
+2018-08-10 08:28:27 INFO     connecting tribune-d.openx.net:80 from 127.0.0.1:60352
+2018-08-10 08:28:27 INFO     connecting as.casalemedia.com:80 from 127.0.0.1:60358
+2018-08-10 08:28:27 INFO     connecting an.facebook.com:443 from 127.0.0.1:60354
+2018-08-10 08:28:27 INFO     connecting aax.amazon-adsystem.com:80 from 127.0.0.1:60366
+2018-08-10 08:28:27 INFO     connecting tribune-d.openx.net:80 from 127.0.0.1:60372
+2018-08-10 08:28:27 INFO     connecting as.casalemedia.com:80 from 127.0.0.1:60378
+2018-08-10 08:28:27 INFO     connecting an.facebook.com:443 from 127.0.0.1:60380
+2018-08-10 08:28:27 INFO     connecting www.google.com:443 from 127.0.0.1:60402
+2018-08-10 08:28:27 INFO     connecting ping.chartbeat.net:80 from 127.0.0.1:60408
+2018-08-10 08:28:27 INFO     connecting aax.amazon-adsystem.com:80 from 127.0.0.1:60412
+2018-08-10 08:28:27 INFO     connecting tribune-d.openx.net:80 from 127.0.0.1:60418
+2018-08-10 08:28:27 INFO     connecting as.casalemedia.com:80 from 127.0.0.1:60420
+2018-08-10 08:28:27 INFO     connecting aax.amazon-adsystem.com:80 from 127.0.0.1:60422
+2018-08-10 08:28:27 INFO     connecting tribune-d.openx.net:80 from 127.0.0.1:60434
+2018-08-10 08:28:27 INFO     connecting as.casalemedia.com:80 from 127.0.0.1:60432
+2018-08-10 08:28:27 INFO     connecting connect.facebook.net:443 from 127.0.0.1:60444
+2018-08-10 08:28:27 INFO     connecting api.bounceexchange.com:80 from 127.0.0.1:60450
+2018-08-10 08:28:27 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:60458
+2018-08-10 08:28:28 INFO     connecting bat.bing.com:80 from 127.0.0.1:60520
+2018-08-10 08:28:28 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:60532
+2018-08-10 08:28:28 INFO     connecting pagead2.googlesyndication.com:443 from 127.0.0.1:60546
+2018-08-10 08:28:28 INFO     connecting tpc.googlesyndication.com:443 from 127.0.0.1:60550
+2018-08-10 08:28:28 INFO     connecting www.facebook.com:443 from 127.0.0.1:60558
+2018-08-10 08:28:29 INFO     connecting adservice.google.com:443 from 127.0.0.1:60646
+2018-08-10 08:28:31 INFO     connecting twitter.com:443 from 127.0.0.1:60714
+2018-08-10 08:28:38 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:38 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:38 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:28:38 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:60864
+2018-08-10 08:28:38 INFO     connecting eb2.3lift.com:80 from 127.0.0.1:60872
+2018-08-10 08:28:39 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:60886
+2018-08-10 08:28:39 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:60888
+2018-08-10 08:28:39 INFO     connecting trk.vidible.tv:80 from 127.0.0.1:60902
+2018-08-10 08:28:40 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:60918
+2018-08-10 08:28:41 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:60926
+2018-08-10 08:28:41 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:60930
+2018-08-10 08:28:43 INFO     connecting c.newsinc.com:80 from 127.0.0.1:60950
+2018-08-10 08:28:59 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:32768
+2018-08-10 08:29:07 INFO     connecting www.gstatic.com:443 from 127.0.0.1:32856
+2018-08-10 08:29:09 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:33106
+2018-08-10 08:29:10 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:33132
+2018-08-10 08:29:10 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:33134
+2018-08-10 08:29:10 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:33136
+2018-08-10 08:29:10 INFO     connecting facebook.com:443 from 127.0.0.1:33172
+2018-08-10 08:29:10 INFO     connecting scontent-lax3-2.xx.fbcdn.net:443 from 127.0.0.1:33174
+2018-08-10 08:29:10 INFO     connecting static.xx.fbcdn.net:443 from 127.0.0.1:33176
+2018-08-10 08:29:10 INFO     connecting clients1.google.com:443 from 127.0.0.1:33190
+2018-08-10 08:29:17 INFO     connecting fonts.googleapis.com:443 from 127.0.0.1:33326
+2018-08-10 08:29:18 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:33340
+2018-08-10 08:29:18 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:33344
+2018-08-10 08:29:19 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:33354
+2018-08-10 08:29:37 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:29:37 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:29:37 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:29:37 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:33540
+2018-08-10 08:29:39 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:33548
+2018-08-10 08:29:53 INFO     connecting clients4.google.com:443 from 127.0.0.1:33556
+2018-08-10 08:30:00 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:33560
+2018-08-10 08:30:07 INFO     connecting google.com:443 from 127.0.0.1:33564
+2018-08-10 08:30:21 INFO     connecting srv-2018-08-10-00.pixel.parsely.com:80 from 127.0.0.1:33580
+2018-08-10 08:30:28 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:33588
+2018-08-10 08:31:16 INFO     connecting apis.google.com:443 from 127.0.0.1:33612
+2018-08-10 08:31:16 INFO     connecting clients5.google.com:443 from 127.0.0.1:33614
+2018-08-10 08:31:16 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:33616
+2018-08-10 08:31:16 INFO     connecting ogs.google.com:443 from 127.0.0.1:33618
+2018-08-10 08:31:20 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:33640
+2018-08-10 08:31:23 INFO     connecting play.google.com:443 from 127.0.0.1:33646
+2018-08-10 08:31:23 INFO     connecting notifications.google.com:443 from 127.0.0.1:33644
+2018-08-10 08:31:25 INFO     connecting play.google.com:443 from 127.0.0.1:33658
+2018-08-10 08:31:25 INFO     connecting play.google.com:443 from 127.0.0.1:33662
+2018-08-10 08:31:30 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:33670
+2018-08-10 08:33:08 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:08 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:08 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:08 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:08 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:08 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:08 INFO     connecting apis.google.com:443 from 127.0.0.1:33978
+2018-08-10 08:33:08 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:33982
+2018-08-10 08:33:08 INFO     connecting clients5.google.com:443 from 127.0.0.1:33980
+2018-08-10 08:33:08 INFO     connecting www.gstatic.com:443 from 127.0.0.1:33984
+2018-08-10 08:33:36 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:36 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:36 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:36 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:36 INFO     connecting www.google.com.hk:443 from 127.0.0.1:33998
+2018-08-10 08:33:36 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:34000
+2018-08-10 08:33:36 INFO     connecting apis.google.com:443 from 127.0.0.1:34002
+2018-08-10 08:33:36 INFO     connecting clients5.google.com:443 from 127.0.0.1:34004
+2018-08-10 08:33:36 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:34006
+2018-08-10 08:33:36 INFO     connecting www.gstatic.com:443 from 127.0.0.1:34010
+2018-08-10 08:33:43 INFO     connecting play.google.com:443 from 127.0.0.1:34024
+2018-08-10 08:33:43 INFO     connecting play.google.com:443 from 127.0.0.1:34030
+2018-08-10 08:33:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:52 INFO     connecting id.google.com.hk:443 from 127.0.0.1:34034
+2018-08-10 08:33:52 INFO     connecting clients5.google.com:443 from 127.0.0.1:34038
+2018-08-10 08:33:53 INFO     connecting id.google.com:443 from 127.0.0.1:34042
+2018-08-10 08:33:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:33:57 INFO     connecting apis.google.com:443 from 127.0.0.1:34046
+2018-08-10 08:33:57 INFO     connecting play.google.com:443 from 127.0.0.1:34048
+2018-08-10 08:33:57 INFO     connecting www.epochtimes.com:80 from 127.0.0.1:34054
+2018-08-10 08:33:58 INFO     connecting www.epochtimes.com:80 from 127.0.0.1:34058
+2018-08-10 08:33:58 INFO     connecting www.epochtimes.com:80 from 127.0.0.1:34062
+2018-08-10 08:33:58 INFO     connecting www.epochtimes.com:80 from 127.0.0.1:34064
+2018-08-10 08:33:58 INFO     connecting www.epochtimes.com:80 from 127.0.0.1:34070
+2018-08-10 08:33:58 INFO     connecting ajax.googleapis.com:443 from 127.0.0.1:34074
+2018-08-10 08:33:58 INFO     connecting www.epochtimes.com:80 from 127.0.0.1:34078
+2018-08-10 08:33:58 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34082
+2018-08-10 08:33:58 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34086
+2018-08-10 08:33:58 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34090
+2018-08-10 08:33:59 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34094
+2018-08-10 08:33:59 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34098
+2018-08-10 08:33:59 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34102
+2018-08-10 08:33:59 INFO     connecting www.googletagmanager.com:80 from 127.0.0.1:34104
+2018-08-10 08:33:59 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:34110
+2018-08-10 08:34:00 INFO     connecting b.scorecardresearch.com:80 from 127.0.0.1:34136
+2018-08-10 08:34:00 INFO     connecting ajax.googleapis.com:80 from 127.0.0.1:34144
+2018-08-10 08:34:00 INFO     connecting pixel.quantserve.com:80 from 127.0.0.1:34152
+2018-08-10 08:34:01 INFO     connecting tpc.googlesyndication.com:443 from 127.0.0.1:34170
+2018-08-10 08:34:07 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:34:07 INFO     connecting www.youmaker.com:443 from 127.0.0.1:34236
+2018-08-10 08:34:49 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:34:49 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:34:49 INFO     connecting www.google.com.hk:443 from 127.0.0.1:34244
+2018-08-10 08:36:35 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34250
+2018-08-10 08:36:41 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34254
+2018-08-10 08:36:41 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34256
+2018-08-10 08:36:41 INFO     connecting i.epochtimes.com:80 from 127.0.0.1:34260
+2018-08-10 08:36:43 INFO     connecting comments.epochtimes.com:80 from 127.0.0.1:34266
+2018-08-10 08:36:49 INFO     connecting fonts.googleapis.com:443 from 127.0.0.1:34274
+2018-08-10 08:36:49 INFO     connecting apis.google.com:443 from 127.0.0.1:34278
+2018-08-10 08:36:49 INFO     connecting clients5.google.com:443 from 127.0.0.1:34280
+2018-08-10 08:36:49 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:34282
+2018-08-10 08:36:49 INFO     connecting www.gstatic.com:443 from 127.0.0.1:34284
+2018-08-10 08:36:49 INFO     connecting fonts.googleapis.com:443 from 127.0.0.1:34296
+2018-08-10 08:36:57 INFO     connecting notifications.google.com:443 from 127.0.0.1:34302
+2018-08-10 08:37:03 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:03 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:03 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:03 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:03 INFO     connecting apis.google.com:443 from 127.0.0.1:34306
+2018-08-10 08:37:03 INFO     connecting play.google.com:443 from 127.0.0.1:34308
+2018-08-10 08:37:04 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34314
+2018-08-10 08:37:04 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34318
+2018-08-10 08:37:04 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34320
+2018-08-10 08:37:04 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34326
+2018-08-10 08:37:04 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34330
+2018-08-10 08:37:04 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34334
+2018-08-10 08:37:04 INFO     connecting www.googletagservices.com:443 from 127.0.0.1:34338
+2018-08-10 08:37:05 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:34342
+2018-08-10 08:37:05 INFO     connecting count.wenxuecity.com:80 from 127.0.0.1:34346
+2018-08-10 08:37:05 INFO     connecting media.chinagate.com:80 from 127.0.0.1:34350
+2018-08-10 08:37:05 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:443 from 127.0.0.1:34354
+2018-08-10 08:37:05 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:05 INFO     connecting beta.wenxuecity.com:443 from 127.0.0.1:34360
+2018-08-10 08:37:05 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:80 from 127.0.0.1:34364
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:80 from 127.0.0.1:34368
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:80 from 127.0.0.1:34370
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:80 from 127.0.0.1:34376
+2018-08-10 08:37:05 INFO     connecting search.wenxuecity.com:80 from 127.0.0.1:34380
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:80 from 127.0.0.1:34384
+2018-08-10 08:37:05 INFO     connecting adserver.wenxuecity.com:80 from 127.0.0.1:34386
+2018-08-10 08:37:06 INFO     connecting pixel.wenxuecity.com:80 from 127.0.0.1:34398
+2018-08-10 08:37:06 INFO     connecting cas.criteo.com:80 from 127.0.0.1:34402
+2018-08-10 08:37:06 INFO     connecting cdn.wenxuecity.com:80 from 127.0.0.1:34404
+2018-08-10 08:37:06 INFO     connecting cdn.wenxuecity.com:80 from 127.0.0.1:34410
+2018-08-10 08:37:06 INFO     connecting cdn.wenxuecity.com:80 from 127.0.0.1:34414
+2018-08-10 08:37:06 INFO     connecting cdn.wenxuecity.com:80 from 127.0.0.1:34418
+2018-08-10 08:37:07 INFO     connecting aax-cpm.amazon-adsystem.com:80 from 127.0.0.1:34422
+2018-08-10 08:37:07 INFO     connecting cdn.wenxuecity.com:80 from 127.0.0.1:34426
+2018-08-10 08:37:07 INFO     connecting cdn.wenxuecity.com:80 from 127.0.0.1:34434
+2018-08-10 08:37:07 INFO     connecting adservice.google.com:443 from 127.0.0.1:34438
+2018-08-10 08:37:07 INFO     connecting pagead2.googlesyndication.com:443 from 127.0.0.1:34442
+2018-08-10 08:37:07 INFO     connecting tpc.googlesyndication.com:443 from 127.0.0.1:34446
+2018-08-10 08:37:08 INFO     connecting ajax.googleapis.com:443 from 127.0.0.1:34456
+2018-08-10 08:37:08 INFO     connecting ajax.googleapis.com:80 from 127.0.0.1:34464
+2018-08-10 08:37:08 INFO     connecting clients4.google.com:443 from 127.0.0.1:34500
+2018-08-10 08:37:09 INFO     connecting aax-cpm.amazon-adsystem.com:80 from 127.0.0.1:34504
+2018-08-10 08:37:10 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34512
+2018-08-10 08:37:10 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34514
+2018-08-10 08:37:10 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34516
+2018-08-10 08:37:10 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34518
+2018-08-10 08:37:10 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34520
+2018-08-10 08:37:10 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:34570
+2018-08-10 08:37:11 INFO     connecting twitter.com:443 from 127.0.0.1:34586
+2018-08-10 08:37:11 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34600
+2018-08-10 08:37:11 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34602
+2018-08-10 08:37:11 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34604
+2018-08-10 08:37:11 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:34612
+2018-08-10 08:37:12 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34616
+2018-08-10 08:37:12 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34620
+2018-08-10 08:37:12 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34626
+2018-08-10 08:37:13 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34632
+2018-08-10 08:37:13 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34634
+2018-08-10 08:37:14 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34640
+2018-08-10 08:37:14 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34644
+2018-08-10 08:37:14 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34646
+2018-08-10 08:37:14 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34652
+2018-08-10 08:37:14 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34656
+2018-08-10 08:37:16 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34662
+2018-08-10 08:37:16 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34670
+2018-08-10 08:37:16 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34672
+2018-08-10 08:37:18 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34678
+2018-08-10 08:37:18 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34680
+2018-08-10 08:37:19 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34686
+2018-08-10 08:37:19 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34688
+2018-08-10 08:37:20 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34694
+2018-08-10 08:37:21 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34698
+2018-08-10 08:37:21 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34702
+2018-08-10 08:37:21 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34704
+2018-08-10 08:37:21 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34710
+2018-08-10 08:37:21 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34712
+2018-08-10 08:37:26 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34718
+2018-08-10 08:37:26 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34720
+2018-08-10 08:37:27 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34726
+2018-08-10 08:37:27 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34728
+2018-08-10 08:37:27 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34734
+2018-08-10 08:37:28 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34738
+2018-08-10 08:37:28 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34740
+2018-08-10 08:37:28 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34746
+2018-08-10 08:37:28 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34748
+2018-08-10 08:37:29 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34754
+2018-08-10 08:37:29 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34756
+2018-08-10 08:37:30 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34762
+2018-08-10 08:37:32 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34766
+2018-08-10 08:37:33 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34770
+2018-08-10 08:37:33 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34772
+2018-08-10 08:37:33 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34782
+2018-08-10 08:37:33 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34784
+2018-08-10 08:37:34 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34790
+2018-08-10 08:37:34 INFO     connecting media.chinagate.com:80 from 127.0.0.1:34794
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34798
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34800
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34806
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34808
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34814
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34816
+2018-08-10 08:37:35 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:34822
+2018-08-10 08:37:35 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:34824
+2018-08-10 08:37:35 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:34826
+2018-08-10 08:37:35 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:34828
+2018-08-10 08:37:35 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:34830
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34832
+2018-08-10 08:37:35 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:34844
+2018-08-10 08:37:35 INFO     connecting tpc.googlesyndication.com:80 from 127.0.0.1:34846
+2018-08-10 08:37:35 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34868
+2018-08-10 08:37:35 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34872
+2018-08-10 08:37:35 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34876
+2018-08-10 08:37:36 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34880
+2018-08-10 08:37:36 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34884
+2018-08-10 08:37:36 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34888
+2018-08-10 08:37:36 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34892
+2018-08-10 08:37:36 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34896
+2018-08-10 08:37:36 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34900
+2018-08-10 08:37:36 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34902
+2018-08-10 08:37:36 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34908
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34912
+2018-08-10 08:37:37 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34916
+2018-08-10 08:37:37 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34918
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34924
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34928
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34932
+2018-08-10 08:37:37 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34936
+2018-08-10 08:37:37 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34938
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34944
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34948
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34950
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34956
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34960
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34964
+2018-08-10 08:37:37 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34968
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34972
+2018-08-10 08:37:38 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34976
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34980
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34984
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:34988
+2018-08-10 08:37:38 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34992
+2018-08-10 08:37:38 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:34994
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35000
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35004
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35008
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35012
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35016
+2018-08-10 08:37:38 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35020
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35024
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35028
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35032
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35036
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35040
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35044
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35048
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35052
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35056
+2018-08-10 08:37:39 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35060
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35064
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35068
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35072
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35076
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35080
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35084
+2018-08-10 08:37:40 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35090
+2018-08-10 08:37:40 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35088
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35096
+2018-08-10 08:37:40 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35100
+2018-08-10 08:37:40 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35102
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35108
+2018-08-10 08:37:40 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35112
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35116
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35120
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35124
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35128
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35132
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35136
+2018-08-10 08:37:41 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35140
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35144
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35148
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35152
+2018-08-10 08:37:41 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35156
+2018-08-10 08:37:41 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35158
+2018-08-10 08:37:41 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35164
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35168
+2018-08-10 08:37:42 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35172
+2018-08-10 08:37:42 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35174
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35180
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35184
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35188
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35192
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35196
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35200
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35204
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35208
+2018-08-10 08:37:42 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35212
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35216
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35220
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35224
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35226
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35232
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35236
+2018-08-10 08:37:43 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35240
+2018-08-10 08:37:43 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35242
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35248
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35252
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35256
+2018-08-10 08:37:43 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35260
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35264
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35268
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35272
+2018-08-10 08:37:44 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35276
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35280
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35284
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35288
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35292
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35296
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35300
+2018-08-10 08:37:44 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35304
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35308
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35312
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35316
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35320
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35324
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35328
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35332
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35336
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35340
+2018-08-10 08:37:45 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35344
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35348
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35352
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35356
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35360
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35366
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35364
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35372
+2018-08-10 08:37:46 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35376
+2018-08-10 08:37:46 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:35380
+2018-08-10 08:37:46 INFO     connecting imasdk.googleapis.com:80 from 127.0.0.1:35382
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35388
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35392
+2018-08-10 08:37:46 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35396
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35400
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35404
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35408
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35412
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35420
+2018-08-10 08:37:47 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35424
+2018-08-10 08:37:47 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35428
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35430
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35436
+2018-08-10 08:37:47 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35440
+2018-08-10 08:37:47 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35442
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35448
+2018-08-10 08:37:47 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35452
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35456
+2018-08-10 08:37:47 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35460
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35464
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35468
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35472
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35476
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35480
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35484
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35488
+2018-08-10 08:37:48 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35492
+2018-08-10 08:37:48 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35494
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35500
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35504
+2018-08-10 08:37:48 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35508
+2018-08-10 08:37:48 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35512
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35516
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35520
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35524
+2018-08-10 08:37:49 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35528
+2018-08-10 08:37:49 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35530
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35536
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35540
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35544
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35548
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35552
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35556
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35558
+2018-08-10 08:37:49 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35564
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35568
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35572
+2018-08-10 08:37:50 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:37:50 INFO     connecting www.facebook.com:443 from 127.0.0.1:35576
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35580
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35584
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35588
+2018-08-10 08:37:50 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35592
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35596
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35600
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35604
+2018-08-10 08:37:50 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35608
+2018-08-10 08:37:50 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35610
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35616
+2018-08-10 08:37:50 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35620
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35624
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35628
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35632
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35636
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35640
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35644
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35648
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35652
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35656
+2018-08-10 08:37:51 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35660
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35664
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35668
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35672
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35676
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35680
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35684
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35688
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35692
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35696
+2018-08-10 08:37:52 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35700
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35704
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35708
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35712
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35716
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35720
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35724
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35728
+2018-08-10 08:37:53 INFO     connecting www.wenxuecity.com:80 from 127.0.0.1:35732
+2018-08-10 08:37:53 INFO     connecting www.google.com:443 from 127.0.0.1:35736
+2018-08-10 08:37:58 INFO     connecting www.google.com.hk:443 from 127.0.0.1:35740
+2018-08-10 08:37:58 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:35742
+2018-08-10 08:37:58 INFO     connecting apis.google.com:443 from 127.0.0.1:35744
+2018-08-10 08:37:58 INFO     connecting clients5.google.com:443 from 127.0.0.1:35746
+2018-08-10 08:37:58 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:35748
+2018-08-10 08:37:58 INFO     connecting notifications.google.com:443 from 127.0.0.1:35750
+2018-08-10 08:37:58 INFO     connecting ogs.google.com:443 from 127.0.0.1:35752
+2018-08-10 08:37:58 INFO     connecting www.gstatic.com:443 from 127.0.0.1:35754
+2018-08-10 08:38:04 INFO     connecting play.google.com:443 from 127.0.0.1:35776
+2018-08-10 08:38:05 INFO     connecting www.google.com.hk:443 from 127.0.0.1:35780
+2018-08-10 08:38:05 INFO     connecting play.google.com:443 from 127.0.0.1:35784
+2018-08-10 08:38:08 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:35788
+2018-08-10 08:38:10 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:10 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:10 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:10 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:10 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:10 INFO     connecting apis.google.com:443 from 127.0.0.1:35792
+2018-08-10 08:38:10 INFO     connecting notifications.google.com:443 from 127.0.0.1:35794
+2018-08-10 08:38:20 INFO     connecting news.creaders.net:80 from 127.0.0.1:35802
+2018-08-10 08:38:21 INFO     connecting news.creaders.net:80 from 127.0.0.1:35806
+2018-08-10 08:38:21 INFO     connecting news.creaders.net:80 from 127.0.0.1:35808
+2018-08-10 08:38:21 INFO     connecting www.creaders.net:80 from 127.0.0.1:35810
+2018-08-10 08:38:21 INFO     connecting www.creaders.net:80 from 127.0.0.1:35818
+2018-08-10 08:38:21 INFO     connecting www.creaders.net:80 from 127.0.0.1:35822
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35832
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35834
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35836
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35838
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35840
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35852
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35854
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35860
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35864
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35868
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35870
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35876
+2018-08-10 08:38:22 INFO     connecting l.sharethis.com:80 from 127.0.0.1:35880
+2018-08-10 08:38:22 INFO     connecting www.creaders.net:80 from 127.0.0.1:35886
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35890
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35894
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35898
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35900
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35906
+2018-08-10 08:38:22 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35910
+2018-08-10 08:38:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:22 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:38:22 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35914
+2018-08-10 08:38:22 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35916
+2018-08-10 08:38:22 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:35918
+2018-08-10 08:38:22 INFO     connecting tpc.googlesyndication.com:443 from 127.0.0.1:35920
+2018-08-10 08:38:23 INFO     connecting t.sharethis.com:80 from 127.0.0.1:35932
+2018-08-10 08:38:23 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35936
+2018-08-10 08:38:23 INFO     connecting showads.pubmatic.com:80 from 127.0.0.1:35944
+2018-08-10 08:38:23 INFO     connecting pub.creaders.net:80 from 127.0.0.1:35990
+2018-08-10 08:38:23 INFO     connecting live.sekindo.com:80 from 127.0.0.1:35994
+2018-08-10 08:38:23 INFO     connecting www.creaders.net:80 from 127.0.0.1:36002
+2018-08-10 08:38:23 INFO     connecting www.creaders.net:80 from 127.0.0.1:36006
+2018-08-10 08:38:23 INFO     connecting www.creaders.net:80 from 127.0.0.1:36008
+2018-08-10 08:38:23 INFO     connecting pub.creaders.net:80 from 127.0.0.1:36028
+2018-08-10 08:38:23 INFO     connecting showads.pubmatic.com:80 from 127.0.0.1:36034
+2018-08-10 08:38:24 INFO     connecting pub.creaders.net:80 from 127.0.0.1:36040
+2018-08-10 08:38:24 INFO     connecting m.addthis.com:80 from 127.0.0.1:36052
+2018-08-10 08:38:24 INFO     connecting pixel.quantserve.com:80 from 127.0.0.1:36058
+2018-08-10 08:38:24 INFO     connecting ap.lijit.com:80 from 127.0.0.1:36094
+2018-08-10 08:38:25 INFO     connecting ap.lijit.com:80 from 127.0.0.1:36108
+2018-08-10 08:38:25 INFO     connecting go1.aniview.com:80 from 127.0.0.1:36112
+2018-08-10 08:38:25 INFO     connecting track1.aniview.com:80 from 127.0.0.1:36152
+2018-08-10 08:38:25 INFO     connecting aktrack.pubmatic.com:80 from 127.0.0.1:36154
+2018-08-10 08:38:25 INFO     connecting track1.aniview.com:80 from 127.0.0.1:36168
+2018-08-10 08:38:25 INFO     connecting aktrack.pubmatic.com:80 from 127.0.0.1:36172
+2018-08-10 08:38:25 INFO     connecting fonts.googleapis.com:443 from 127.0.0.1:36188
+2018-08-10 08:38:25 INFO     connecting cspix.media6degrees.com:80 from 127.0.0.1:36192
+2018-08-10 08:38:25 INFO     connecting live.sekindo.com:80 from 127.0.0.1:36196
+2018-08-10 08:38:25 INFO     connecting cdn.doubleverify.com:80 from 127.0.0.1:36202
+2018-08-10 08:38:25 INFO     connecting ads.adaptv.advertising.com:80 from 127.0.0.1:36206
+2018-08-10 08:38:25 INFO     connecting ads.adaptv.advertising.com:80 from 127.0.0.1:36210
+2018-08-10 08:38:25 INFO     connecting clients1.google.com:443 from 127.0.0.1:36216
+2018-08-10 08:38:26 INFO     connecting pre.glotgrx.com:80 from 127.0.0.1:36220
+2018-08-10 08:38:26 INFO     connecting pre.glotgrx.com:80 from 127.0.0.1:36224
+2018-08-10 08:38:26 INFO     connecting ap.lijit.com:80 from 127.0.0.1:36228
+2018-08-10 08:38:26 INFO     connecting aktrack.pubmatic.com:80 from 127.0.0.1:36236
+2018-08-10 08:38:30 INFO     connecting aktrack.pubmatic.com:80 from 127.0.0.1:36288
+2018-08-10 08:38:31 INFO     connecting track1.aniview.com:80 from 127.0.0.1:36316
+2018-08-10 08:38:31 INFO     connecting connexity.net:80 from 127.0.0.1:36336
+2018-08-10 08:38:31 INFO     connecting ic.tynt.com:80 from 127.0.0.1:36342
+2018-08-10 08:38:32 INFO     connecting de.tynt.com:80 from 127.0.0.1:36370
+2018-08-10 08:38:32 INFO     connecting de.tynt.com:80 from 127.0.0.1:36378
+2018-08-10 08:38:32 INFO     connecting tps30.doubleverify.com:80 from 127.0.0.1:36382
+2018-08-10 08:38:32 INFO     connecting search.spotxchange.com:80 from 127.0.0.1:36396
+2018-08-10 08:38:33 INFO     connecting search.spotxchange.com:80 from 127.0.0.1:36400
+2018-08-10 08:38:33 INFO     connecting vid.pubmatic.com:80 from 127.0.0.1:36408
+2018-08-10 08:38:33 INFO     connecting ads.adaptv.advertising.com:80 from 127.0.0.1:36428
+2018-08-10 08:38:33 INFO     connecting ads.adaptv.advertising.com:80 from 127.0.0.1:36432
+2018-08-10 08:38:33 INFO     connecting p.adsymptotic.com:80 from 127.0.0.1:36442
+2018-08-10 08:38:34 INFO     connecting ml314.com:80 from 127.0.0.1:36450
+2018-08-10 08:38:34 INFO     connecting cm.g.doubleclick.net:80 from 127.0.0.1:36460
+2018-08-10 08:38:34 INFO     connecting ib.adnxs.com:80 from 127.0.0.1:36476
+2018-08-10 08:38:34 INFO     connecting s.cpx.to:80 from 127.0.0.1:36484
+2018-08-10 08:38:35 INFO     connecting s.cpx.to:80 from 127.0.0.1:36490
+2018-08-10 08:38:37 INFO     connecting ads.adaptv.advertising.com:80 from 127.0.0.1:36530
+2018-08-10 08:38:37 INFO     connecting ads.adaptv.advertising.com:80 from 127.0.0.1:36534
+2018-08-10 08:38:38 INFO     connecting track1.aniview.com:80 from 127.0.0.1:36540
+2018-08-10 08:39:04 INFO     connecting m.addthis.com:80 from 127.0.0.1:36658
+2018-08-10 08:39:04 INFO     connecting apis.google.com:443 from 127.0.0.1:36664
+2018-08-10 08:39:04 INFO     connecting clients5.google.com:443 from 127.0.0.1:36666
+2018-08-10 08:39:04 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:36668
+2018-08-10 08:39:04 INFO     connecting notifications.google.com:443 from 127.0.0.1:36670
+2018-08-10 08:39:04 INFO     connecting www.gstatic.com:443 from 127.0.0.1:36672
+2018-08-10 08:39:04 INFO     connecting pagead2.googlesyndication.com:80 from 127.0.0.1:36686
+2018-08-10 08:39:09 INFO     connecting play.google.com:443 from 127.0.0.1:36696
+2018-08-10 08:39:25 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 08:39:25 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:36700
+2018-08-10 08:39:31 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:31 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:31 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:31 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:31 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:31 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:31 INFO     connecting apis.google.com:443 from 127.0.0.1:36704
+2018-08-10 08:39:31 INFO     connecting clients5.google.com:443 from 127.0.0.1:36706
+2018-08-10 08:39:31 INFO     connecting www.gstatic.com:443 from 127.0.0.1:36708
+2018-08-10 08:39:36 INFO     connecting notifications.google.com:443 from 127.0.0.1:36716
+2018-08-10 08:39:36 INFO     connecting play.google.com:443 from 127.0.0.1:36718
+2018-08-10 08:39:41 INFO     connecting github.com:443 from 127.0.0.1:36724
+2018-08-10 08:39:41 INFO     connecting api.github.com:443 from 127.0.0.1:36728
+2018-08-10 08:39:41 INFO     connecting api.github.com:443 from 127.0.0.1:36730
+2018-08-10 08:39:41 INFO     connecting api.github.com:443 from 127.0.0.1:36732
+2018-08-10 08:39:41 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36734
+2018-08-10 08:39:41 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36736
+2018-08-10 08:39:41 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36738
+2018-08-10 08:39:41 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36740
+2018-08-10 08:39:41 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36742
+2018-08-10 08:39:41 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36744
+2018-08-10 08:39:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:41 INFO     connecting github.com:443 from 127.0.0.1:36748
+2018-08-10 08:39:41 INFO     connecting github.com:443 from 127.0.0.1:36750
+2018-08-10 08:39:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:42 INFO     connecting api.github.com:443 from 127.0.0.1:36792
+2018-08-10 08:39:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:39:42 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36798
+2018-08-10 08:39:42 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36800
+2018-08-10 08:39:43 INFO     connecting live.github.com:443 from 127.0.0.1:36806
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:02 INFO     connecting api.github.com:443 from 127.0.0.1:36836
+2018-08-10 08:40:02 INFO     connecting api.github.com:443 from 127.0.0.1:36838
+2018-08-10 08:40:02 INFO     connecting api.github.com:443 from 127.0.0.1:36840
+2018-08-10 08:40:02 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36842
+2018-08-10 08:40:02 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36844
+2018-08-10 08:40:02 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36846
+2018-08-10 08:40:02 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36848
+2018-08-10 08:40:02 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36850
+2018-08-10 08:40:02 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:36852
+2018-08-10 08:40:02 INFO     connecting github.com:443 from 127.0.0.1:36874
+2018-08-10 08:40:04 INFO     connecting live.github.com:443 from 127.0.0.1:36886
+2018-08-10 08:40:11 INFO     connecting www.gstatic.com:443 from 127.0.0.1:36890
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:14 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:36894
+2018-08-10 08:40:14 INFO     connecting encrypted-tbn0.gstatic.com:443 from 127.0.0.1:36898
+2018-08-10 08:40:14 INFO     connecting encrypted-tbn1.gstatic.com:443 from 127.0.0.1:36902
+2018-08-10 08:40:14 INFO     connecting encrypted-tbn2.gstatic.com:443 from 127.0.0.1:36904
+2018-08-10 08:40:14 INFO     connecting encrypted-tbn2.gstatic.com:443 from 127.0.0.1:36906
+2018-08-10 08:40:15 INFO     connecting clients5.google.com:443 from 127.0.0.1:36914
+2018-08-10 08:40:20 INFO     connecting apis.google.com:443 from 127.0.0.1:36922
+2018-08-10 08:40:20 INFO     connecting notifications.google.com:443 from 127.0.0.1:36924
+2018-08-10 08:40:20 INFO     connecting play.google.com:443 from 127.0.0.1:36926
+2018-08-10 08:40:32 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:32 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:32 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:32 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:32 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:32 INFO     connecting apis.google.com:443 from 127.0.0.1:36940
+2018-08-10 08:40:32 INFO     connecting clients5.google.com:443 from 127.0.0.1:36942
+2018-08-10 08:40:32 INFO     connecting notifications.google.com:443 from 127.0.0.1:36944
+2018-08-10 08:40:50 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:50 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:40:50 INFO     connecting apis.google.com:443 from 127.0.0.1:36974
+2018-08-10 08:40:50 INFO     connecting clients5.google.com:443 from 127.0.0.1:36976
+2018-08-10 08:41:17 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:17 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:17 INFO     connecting github.com:443 from 127.0.0.1:36994
+2018-08-10 08:41:17 INFO     connecting api.github.com:443 from 127.0.0.1:36996
+2018-08-10 08:41:17 INFO     connecting api.github.com:443 from 127.0.0.1:36998
+2018-08-10 08:41:17 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37000
+2018-08-10 08:41:17 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37002
+2018-08-10 08:41:17 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37004
+2018-08-10 08:41:17 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37006
+2018-08-10 08:41:17 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37008
+2018-08-10 08:41:17 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37010
+2018-08-10 08:41:17 INFO     connecting github.com:443 from 127.0.0.1:37012
+2018-08-10 08:41:17 INFO     connecting api.github.com:443 from 127.0.0.1:37040
+2018-08-10 08:41:19 INFO     connecting live.github.com:443 from 127.0.0.1:37046
+2018-08-10 08:41:22 INFO     connecting google.com:443 from 127.0.0.1:37050
+2018-08-10 08:41:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:41 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:41:42 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37056
+2018-08-10 08:41:42 INFO     connecting api.github.com:443 from 127.0.0.1:37060
+2018-08-10 08:41:45 INFO     connecting api.github.com:443 from 127.0.0.1:37064
+2018-08-10 08:41:45 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37066
+2018-08-10 08:41:45 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37068
+2018-08-10 08:41:45 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37070
+2018-08-10 08:41:45 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37072
+2018-08-10 08:41:46 INFO     connecting github.com:443 from 127.0.0.1:37088
+2018-08-10 08:41:46 INFO     connecting live.github.com:443 from 127.0.0.1:37092
+2018-08-10 08:42:45 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37108
+2018-08-10 08:42:45 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37110
+2018-08-10 08:42:45 INFO     connecting github.com:443 from 127.0.0.1:37118
+2018-08-10 08:42:45 INFO     connecting github.com:443 from 127.0.0.1:37122
+2018-08-10 08:42:45 INFO     connecting github.com:443 from 127.0.0.1:37124
+2018-08-10 08:42:45 INFO     connecting github.com:443 from 127.0.0.1:37126
+2018-08-10 08:42:45 INFO     connecting github.com:443 from 127.0.0.1:37128
+2018-08-10 08:42:46 INFO     connecting live.github.com:443 from 127.0.0.1:37140
+2018-08-10 08:43:01 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37154
+2018-08-10 08:43:01 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37156
+2018-08-10 08:43:01 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37158
+2018-08-10 08:43:01 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37160
+2018-08-10 08:43:02 INFO     connecting live.github.com:443 from 127.0.0.1:37174
+2018-08-10 08:43:04 INFO     connecting api.github.com:443 from 127.0.0.1:37178
+2018-08-10 08:43:04 INFO     connecting api.github.com:443 from 127.0.0.1:37182
+2018-08-10 08:44:30 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 08:44:30 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37206
+2018-08-10 08:46:28 INFO     connecting www.google.com.hk:443 from 127.0.0.1:37216
+2018-08-10 08:46:28 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:37218
+2018-08-10 08:46:28 INFO     connecting apis.google.com:443 from 127.0.0.1:37220
+2018-08-10 08:46:28 INFO     connecting clients5.google.com:443 from 127.0.0.1:37222
+2018-08-10 08:46:28 INFO     connecting notifications.google.com:443 from 127.0.0.1:37224
+2018-08-10 08:46:28 INFO     connecting ogs.google.com:443 from 127.0.0.1:37226
+2018-08-10 08:46:28 INFO     connecting www.gstatic.com:443 from 127.0.0.1:37228
+2018-08-10 08:46:34 INFO     connecting play.google.com:443 from 127.0.0.1:37250
+2018-08-10 08:46:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:42 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:42 INFO     connecting github.com:443 from 127.0.0.1:37254
+2018-08-10 08:46:42 INFO     connecting github.com:443 from 127.0.0.1:37272
+2018-08-10 08:46:42 INFO     connecting api.github.com:443 from 127.0.0.1:37256
+2018-08-10 08:46:42 INFO     connecting api.github.com:443 from 127.0.0.1:37258
+2018-08-10 08:46:42 INFO     connecting api.github.com:443 from 127.0.0.1:37260
+2018-08-10 08:46:42 INFO     connecting api.github.com:443 from 127.0.0.1:37262
+2018-08-10 08:46:42 INFO     connecting github.com:443 from 127.0.0.1:37264
+2018-08-10 08:46:42 INFO     connecting github.com:443 from 127.0.0.1:37266
+2018-08-10 08:46:42 INFO     connecting github.com:443 from 127.0.0.1:37268
+2018-08-10 08:46:42 INFO     connecting github.com:443 from 127.0.0.1:37270
+2018-08-10 08:46:44 INFO     connecting api.github.com:443 from 127.0.0.1:37300
+2018-08-10 08:46:44 INFO     connecting api.github.com:443 from 127.0.0.1:37304
+2018-08-10 08:46:44 INFO     connecting live.github.com:443 from 127.0.0.1:37308
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:55 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 08:46:57 INFO     connecting live.github.com:443 from 127.0.0.1:37320
+2018-08-10 08:47:06 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:37328
+2018-08-10 08:47:32 INFO     connecting google.com:443 from 127.0.0.1:37332
+2018-08-10 08:47:32 INFO     connecting www.google.com.hk:443 from 127.0.0.1:37334
+2018-08-10 08:48:08 WARNING  timed out: assets-cdn.github.com:443
+2018-08-10 08:48:09 INFO     connecting github.com:443 from 127.0.0.1:37348
+2018-08-10 08:48:11 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37368
+2018-08-10 08:48:11 INFO     connecting live.github.com:443 from 127.0.0.1:37372
+2018-08-10 08:48:11 INFO     connecting api.github.com:443 from 127.0.0.1:37376
+2018-08-10 08:48:11 INFO     connecting api.github.com:443 from 127.0.0.1:37382
+2018-08-10 08:49:33 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 08:49:33 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37400
+2018-08-10 08:50:19 INFO     connecting github.com:443 from 127.0.0.1:37408
+2018-08-10 08:51:56 INFO     connecting github.com:443 from 127.0.0.1:37440
+2018-08-10 08:52:15 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:37458
+2018-08-10 08:53:24 WARNING  timed out: assets-cdn.github.com:443
+2018-08-10 08:54:25 INFO     connecting github.com:443 from 127.0.0.1:37478
+2018-08-10 08:54:27 INFO     connecting github.com:443 from 127.0.0.1:37500
+2018-08-10 08:54:36 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 08:54:36 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37504
+2018-08-10 08:54:45 INFO     connecting api.github.com:443 from 127.0.0.1:37512
+2018-08-10 08:55:58 INFO     connecting api.github.com:443 from 127.0.0.1:37552
+2018-08-10 08:55:58 INFO     connecting api.github.com:443 from 127.0.0.1:37554
+2018-08-10 08:55:58 INFO     connecting api.github.com:443 from 127.0.0.1:37556
+2018-08-10 08:55:58 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37564
+2018-08-10 08:55:58 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37566
+2018-08-10 08:55:58 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37568
+2018-08-10 08:55:58 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37570
+2018-08-10 08:55:58 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37572
+2018-08-10 08:55:58 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37574
+2018-08-10 08:55:58 INFO     connecting github.com:443 from 127.0.0.1:37576
+2018-08-10 08:55:58 INFO     connecting github.com:443 from 127.0.0.1:37578
+2018-08-10 08:55:58 INFO     connecting github.com:443 from 127.0.0.1:37580
+2018-08-10 08:55:58 INFO     connecting github.com:443 from 127.0.0.1:37582
+2018-08-10 08:55:58 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:37584
+2018-08-10 08:55:59 INFO     connecting api.github.com:443 from 127.0.0.1:37616
+2018-08-10 08:56:06 INFO     connecting live.github.com:443 from 127.0.0.1:37622
+2018-08-10 08:56:06 INFO     connecting api.github.com:443 from 127.0.0.1:37626
+2018-08-10 08:56:06 INFO     connecting api.github.com:443 from 127.0.0.1:37630
+2018-08-10 08:56:07 INFO     connecting api.github.com:443 from 127.0.0.1:37634
+2018-08-10 08:56:07 INFO     connecting api.github.com:443 from 127.0.0.1:37638
+2018-08-10 08:56:34 INFO     connecting live.github.com:443 from 127.0.0.1:37642
+2018-08-10 08:57:00 INFO     connecting live.github.com:443 from 127.0.0.1:37646
+2018-08-10 08:58:00 INFO     connecting github.com:443 from 127.0.0.1:37658
+2018-08-10 08:58:03 INFO     connecting live.github.com:443 from 127.0.0.1:37662
+2018-08-10 08:58:04 INFO     connecting api.github.com:443 from 127.0.0.1:37670
+2018-08-10 08:58:04 INFO     connecting api.github.com:443 from 127.0.0.1:37674
+2018-08-10 08:58:04 INFO     connecting api.github.com:443 from 127.0.0.1:37678
+2018-08-10 08:58:14 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37682
+2018-08-10 08:58:14 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37684
+2018-08-10 08:58:14 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37686
+2018-08-10 08:58:14 INFO     connecting assets-cdn.github.com:443 from 127.0.0.1:37688
+2018-08-10 08:58:57 INFO     connecting www.google.com.hk:443 from 127.0.0.1:37698
+2018-08-10 08:58:57 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:37700
+2018-08-10 08:58:57 INFO     connecting apis.google.com:443 from 127.0.0.1:37702
+2018-08-10 08:58:57 INFO     connecting clients5.google.com:443 from 127.0.0.1:37704
+2018-08-10 08:58:57 INFO     connecting notifications.google.com:443 from 127.0.0.1:37706
+2018-08-10 08:58:57 INFO     connecting ogs.google.com:443 from 127.0.0.1:37708
+2018-08-10 08:58:57 INFO     connecting www.google.com:443 from 127.0.0.1:37710
+2018-08-10 08:58:57 INFO     connecting www.gstatic.com:443 from 127.0.0.1:37712
+2018-08-10 08:59:04 INFO     connecting play.google.com:443 from 127.0.0.1:37730
+2018-08-10 08:59:44 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 08:59:44 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37744
+2018-08-10 09:00:21 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:00:21 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:00:21 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:00:21 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:37748
+2018-08-10 09:00:22 INFO     connecting www.google.com:443 from 127.0.0.1:37752
+2018-08-10 09:00:34 INFO     connecting clients1.google.com:443 from 127.0.0.1:37770
+2018-08-10 09:03:14 WARNING  timed out: assets-cdn.github.com:443
+2018-08-10 09:03:14 WARNING  timed out: assets-cdn.github.com:443
+2018-08-10 09:03:14 WARNING  timed out: assets-cdn.github.com:443
+2018-08-10 09:03:54 WARNING  timed out: assets-cdn.github.com:443
+2018-08-10 09:04:49 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37810
+2018-08-10 09:09:56 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:09:56 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37874
+2018-08-10 09:14:57 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:14:57 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:37918
+2018-08-10 09:19:03 INFO     connecting clients4.google.com:443 from 127.0.0.1:37960
+2018-08-10 09:19:38 INFO     connecting clients1.google.com:443 from 127.0.0.1:37996
+2018-08-10 09:19:59 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:19:59 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38008
+2018-08-10 09:24:59 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:24:59 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38068
+2018-08-10 09:25:01 INFO     connecting clients1.google.com:443 from 127.0.0.1:38074
+2018-08-10 09:30:00 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:30:00 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38132
+2018-08-10 09:34:29 INFO     connecting clients4.google.com:443 from 127.0.0.1:38170
+2018-08-10 09:34:48 INFO     connecting www.google.com:443 from 127.0.0.1:38178
+2018-08-10 09:34:48 INFO     connecting apis.google.com:443 from 127.0.0.1:38180
+2018-08-10 09:34:48 INFO     connecting clients5.google.com:443 from 127.0.0.1:38182
+2018-08-10 09:34:48 INFO     connecting encrypted-tbn0.gstatic.com:443 from 127.0.0.1:38184
+2018-08-10 09:34:48 INFO     connecting encrypted-tbn1.gstatic.com:443 from 127.0.0.1:38186
+2018-08-10 09:34:48 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:38190
+2018-08-10 09:34:48 INFO     connecting notifications.google.com:443 from 127.0.0.1:38192
+2018-08-10 09:34:48 INFO     connecting ogs.google.com:443 from 127.0.0.1:38194
+2018-08-10 09:34:48 INFO     connecting www.gstatic.com:443 from 127.0.0.1:38196
+2018-08-10 09:34:48 INFO     connecting www.google.com:443 from 127.0.0.1:38214
+2018-08-10 09:34:49 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:38220
+2018-08-10 09:34:50 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38224
+2018-08-10 09:34:50 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:38226
+2018-08-10 09:34:56 INFO     connecting play.google.com:443 from 127.0.0.1:38232
+2018-08-10 09:34:56 INFO     connecting play.google.com:443 from 127.0.0.1:38238
+2018-08-10 09:35:01 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:35:01 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38242
+2018-08-10 09:35:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:35:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:35:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:35:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:35:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:35:01 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:35:01 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:38246
+2018-08-10 09:35:03 INFO     connecting notifications.google.com:443 from 127.0.0.1:38250
+2018-08-10 09:36:06 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:36:06 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:36:06 INFO     connecting google.com:443 from 127.0.0.1:38262
+2018-08-10 09:36:06 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38264
+2018-08-10 09:36:07 INFO     connecting beacons5.gvt3.com:443 from 127.0.0.1:38274
+2018-08-10 09:40:03 INFO     connecting play.google.com:443 from 127.0.0.1:38316
+2018-08-10 09:40:03 INFO     connecting notifications.google.com:443 from 127.0.0.1:38320
+2018-08-10 09:40:04 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:40:04 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38324
+2018-08-10 09:41:48 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38356
+2018-08-10 09:41:48 INFO     connecting www.google.com:443 from 127.0.0.1:38358
+2018-08-10 09:41:56 INFO     connecting clients1.google.com:443 from 127.0.0.1:38370
+2018-08-10 09:43:40 INFO     connecting clients4.google.com:443 from 127.0.0.1:38402
+2018-08-10 09:45:04 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:45:04 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38418
+2018-08-10 09:50:13 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:50:13 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38494
+2018-08-10 09:50:41 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38504
+2018-08-10 09:50:41 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38508
+2018-08-10 09:50:41 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38512
+2018-08-10 09:50:41 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38516
+2018-08-10 09:50:50 INFO     connecting notifications.google.com:443 from 127.0.0.1:38520
+2018-08-10 09:50:51 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:38524
+2018-08-10 09:50:51 INFO     connecting ogs.google.com:443 from 127.0.0.1:38528
+2018-08-10 09:50:53 INFO     connecting www.google.com:443 from 127.0.0.1:38534
+2018-08-10 09:50:54 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:38538
+2018-08-10 09:50:56 INFO     connecting apis.google.com:443 from 127.0.0.1:38542
+2018-08-10 09:50:56 INFO     connecting play.google.com:443 from 127.0.0.1:38544
+2018-08-10 09:50:56 INFO     connecting play.google.com:443 from 127.0.0.1:38552
+2018-08-10 09:50:58 INFO     connecting ajax.googleapis.com:443 from 127.0.0.1:38558
+2018-08-10 09:50:59 INFO     connecting www.googletagservices.com:443 from 127.0.0.1:38564
+2018-08-10 09:51:00 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:38572
+2018-08-10 09:51:00 INFO     connecting adservice.google.com:443 from 127.0.0.1:38580
+2018-08-10 09:51:00 INFO     connecting tpc.googlesyndication.com:443 from 127.0.0.1:38586
+2018-08-10 09:51:00 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:51:00 INFO     connecting pagead2.googlesyndication.com:443 from 127.0.0.1:38592
+2018-08-10 09:51:48 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:51:48 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 09:51:48 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38602
+2018-08-10 09:52:13 INFO     connecting google.com:443 from 127.0.0.1:38610
+2018-08-10 09:55:22 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 09:55:22 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38644
+2018-08-10 09:59:55 INFO     connecting clients4.google.com:443 from 127.0.0.1:38700
+2018-08-10 10:00:08 INFO     connecting clients1.google.com:443 from 127.0.0.1:38706
+2018-08-10 10:00:29 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:00:29 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38710
+2018-08-10 10:05:29 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:05:29 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38758
+2018-08-10 10:10:30 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38796
+2018-08-10 10:15:31 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:15:31 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38846
+2018-08-10 10:20:31 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:20:31 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:38896
+2018-08-10 10:23:50 INFO     connecting clients4.google.com:443 from 127.0.0.1:38922
+2018-08-10 10:23:53 INFO     connecting www.google.com.hk:443 from 127.0.0.1:38930
+2018-08-10 10:23:53 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:38932
+2018-08-10 10:23:53 INFO     connecting apis.google.com:443 from 127.0.0.1:38934
+2018-08-10 10:23:53 INFO     connecting clients5.google.com:443 from 127.0.0.1:38936
+2018-08-10 10:23:53 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:38938
+2018-08-10 10:23:53 INFO     connecting notifications.google.com:443 from 127.0.0.1:38940
+2018-08-10 10:23:53 INFO     connecting ogs.google.com:443 from 127.0.0.1:38942
+2018-08-10 10:23:53 INFO     connecting www.google.com:443 from 127.0.0.1:38944
+2018-08-10 10:23:53 INFO     connecting www.gstatic.com:443 from 127.0.0.1:38946
+2018-08-10 10:23:54 INFO     connecting adservice.google.com:443 from 127.0.0.1:38968
+2018-08-10 10:24:01 INFO     connecting hzs19.cnzz.com:80 from 127.0.0.1:38988
+2018-08-10 10:24:02 INFO     connecting clients1.google.com:443 from 127.0.0.1:39020
+2018-08-10 10:24:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:24:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:24:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:24:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:24:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:24:57 INFO     connecting google.com:443 from 127.0.0.1:39030
+2018-08-10 10:24:57 INFO     connecting www.google.com.hk:443 from 127.0.0.1:39032
+2018-08-10 10:25:38 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:25:38 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:39040
+2018-08-10 10:30:38 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:30:38 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:39090
+2018-08-10 10:35:38 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:35:38 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:39144
+2018-08-10 10:39:56 INFO     connecting clients4.google.com:443 from 127.0.0.1:39222
+2018-08-10 10:40:47 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:40:47 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:39230
+2018-08-10 10:41:26 INFO     connecting www.google.com:443 from 127.0.0.1:39238
+2018-08-10 10:41:26 INFO     connecting apis.google.com:443 from 127.0.0.1:39240
+2018-08-10 10:41:26 INFO     connecting clients5.google.com:443 from 127.0.0.1:39242
+2018-08-10 10:41:26 INFO     connecting encrypted-tbn0.gstatic.com:443 from 127.0.0.1:39244
+2018-08-10 10:41:26 INFO     connecting encrypted-tbn1.gstatic.com:443 from 127.0.0.1:39246
+2018-08-10 10:41:26 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:39248
+2018-08-10 10:41:26 INFO     connecting notifications.google.com:443 from 127.0.0.1:39250
+2018-08-10 10:41:26 INFO     connecting ogs.google.com:443 from 127.0.0.1:39252
+2018-08-10 10:41:26 INFO     connecting www.gstatic.com:443 from 127.0.0.1:39254
+2018-08-10 10:41:26 INFO     connecting www.google.com:443 from 127.0.0.1:39274
+2018-08-10 10:41:27 INFO     connecting www.google.com:443 from 127.0.0.1:39280
+2018-08-10 10:41:28 INFO     connecting accounts.google.com:443 from 127.0.0.1:39284
+2018-08-10 10:41:32 INFO     connecting id.google.com:443 from 127.0.0.1:39290
+2018-08-10 10:41:33 INFO     connecting adservice.google.com:443 from 127.0.0.1:39300
+2018-08-10 10:41:34 INFO     connecting ssl.google-analytics.com:443 from 127.0.0.1:39366
+2018-08-10 10:41:35 INFO     connecting ssl.google-analytics.com:443 from 127.0.0.1:39372
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:41:51 INFO     connecting clients1.google.com:443 from 127.0.0.1:39390
+2018-08-10 10:42:36 INFO     connecting google.com:443 from 127.0.0.1:39404
+2018-08-10 10:45:47 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:39700
+2018-08-10 10:46:41 INFO     connecting www.google.com:443 from 127.0.0.1:39714
+2018-08-10 10:46:41 INFO     connecting adservice.google.com:443 from 127.0.0.1:39716
+2018-08-10 10:46:41 INFO     connecting apis.google.com:443 from 127.0.0.1:39718
+2018-08-10 10:46:41 INFO     connecting clients5.google.com:443 from 127.0.0.1:39720
+2018-08-10 10:46:41 INFO     connecting id.google.com:443 from 127.0.0.1:39722
+2018-08-10 10:46:41 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:39724
+2018-08-10 10:46:41 INFO     connecting ogs.google.com:443 from 127.0.0.1:39726
+2018-08-10 10:46:41 INFO     connecting www.gstatic.com:443 from 127.0.0.1:39728
+2018-08-10 10:46:41 INFO     connecting www.google.com:443 from 127.0.0.1:39746
+2018-08-10 10:46:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:46:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:46:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:46:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:46:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:46:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:46:52 INFO     connecting adservice.google.com:443 from 127.0.0.1:39752
+2018-08-10 10:46:52 INFO     connecting apis.google.com:443 from 127.0.0.1:39754
+2018-08-10 10:46:52 INFO     connecting clients5.google.com:443 from 127.0.0.1:39756
+2018-08-10 10:46:52 INFO     connecting id.google.com:443 from 127.0.0.1:39758
+2018-08-10 10:46:52 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:39760
+2018-08-10 10:46:52 INFO     connecting www.gstatic.com:443 from 127.0.0.1:39766
+2018-08-10 10:46:52 INFO     connecting notifications.google.com:443 from 127.0.0.1:39778
+2018-08-10 10:46:52 INFO     connecting play.google.com:443 from 127.0.0.1:39780
+2018-08-10 10:46:54 INFO     connecting fonts.googleapis.com:443 from 127.0.0.1:39796
+2018-08-10 10:46:54 INFO     connecting www.googletagmanager.com:443 from 127.0.0.1:39800
+2018-08-10 10:46:54 INFO     connecting ssl.google-analytics.com:443 from 127.0.0.1:39802
+2018-08-10 10:46:55 INFO     connecting tools.google.com:443 from 127.0.0.1:39810
+2018-08-10 10:47:15 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:15 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:15 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:15 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:15 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:15 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:15 INFO     connecting chromium.googlesource.com:443 from 127.0.0.1:39816
+2018-08-10 10:47:17 INFO     connecting www.google-analytics.com:443 from 127.0.0.1:39820
+2018-08-10 10:47:38 INFO     connecting clients5.google.com:443 from 127.0.0.1:39834
+2018-08-10 10:47:38 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:39836
+2018-08-10 10:47:42 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:39848
+2018-08-10 10:47:43 INFO     connecting google.com:443 from 127.0.0.1:39852
+2018-08-10 10:47:44 INFO     connecting apis.google.com:443 from 127.0.0.1:39856
+2018-08-10 10:47:44 INFO     connecting notifications.google.com:443 from 127.0.0.1:39858
+2018-08-10 10:47:45 INFO     connecting play.google.com:443 from 127.0.0.1:39864
+2018-08-10 10:47:54 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:54 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:47:54 INFO     connecting clients5.google.com:443 from 127.0.0.1:39874
+2018-08-10 10:48:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:48:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:48:19 INFO     connecting support.google.com:443 from 127.0.0.1:39882
+2018-08-10 10:48:21 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:39886
+2018-08-10 10:48:21 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:39890
+2018-08-10 10:48:23 INFO     connecting play.google.com:443 from 127.0.0.1:39898
+2018-08-10 10:48:23 INFO     connecting realtimesupport.clients6.google.com:443 from 127.0.0.1:39902
+2018-08-10 10:48:23 INFO     connecting realtimesupport.clients6.google.com:443 from 127.0.0.1:39904
+2018-08-10 10:48:23 INFO     connecting accounts.google.com:443 from 127.0.0.1:39910
+2018-08-10 10:48:27 INFO     connecting notifications.google.com:443 from 127.0.0.1:39914
+2018-08-10 10:48:53 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:48:53 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:48:53 INFO     connecting www.google.com.hk:443 from 127.0.0.1:39936
+2018-08-10 10:48:53 INFO     connecting adservice.google.com.hk:443 from 127.0.0.1:39938
+2018-08-10 10:48:53 INFO     connecting clients5.google.com:443 from 127.0.0.1:39940
+2018-08-10 10:49:13 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:49:13 INFO     connecting clients5.google.com:443 from 127.0.0.1:40062
+2018-08-10 10:49:57 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:49:57 INFO     connecting www.google.com.hk:443 from 127.0.0.1:40080
+2018-08-10 10:50:19 INFO     connecting www.googleapis.com:443 from 127.0.0.1:40086
+2018-08-10 10:50:20 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:40090
+2018-08-10 10:50:20 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:40094
+2018-08-10 10:50:21 INFO     connecting translate.google.com:443 from 127.0.0.1:40098
+2018-08-10 10:50:46 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:50:46 INFO     connecting clients5.google.com:443 from 127.0.0.1:40104
+2018-08-10 10:50:47 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:50:47 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:40108
+2018-08-10 10:51:52 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:51:52 INFO     connecting beacons5.gvt3.com:443 from 127.0.0.1:40146
+2018-08-10 10:51:57 INFO     connecting r11---sn-ni57rn7s.gvt1.com:80 from 127.0.0.1:40154
+2018-08-10 10:51:57 INFO     connecting r11---sn-ni57rn7s.gvt1.com:80 from 127.0.0.1:40156
+2018-08-10 10:51:58 INFO     connecting r2---sn-a5mlrn7d.gvt1.com:80 from 127.0.0.1:40162
+2018-08-10 10:51:58 INFO     connecting r2---sn-a5mlrn7d.gvt1.com:80 from 127.0.0.1:40164
+2018-08-10 10:52:42 INFO     connecting apis.google.com:443 from 127.0.0.1:40188
+2018-08-10 10:52:42 INFO     connecting fonts.googleapis.com:443 from 127.0.0.1:40190
+2018-08-10 10:52:42 INFO     connecting notifications.google.com:443 from 127.0.0.1:40192
+2018-08-10 10:52:42 INFO     connecting www.googletagmanager.com:443 from 127.0.0.1:40194
+2018-08-10 10:52:44 INFO     connecting adservice.google.com:443 from 127.0.0.1:40206
+2018-08-10 10:52:48 INFO     connecting play.google.com:443 from 127.0.0.1:40212
+2018-08-10 10:54:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:54:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:54:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:54:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:54:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 10:54:26 INFO     connecting notifications.google.com:443 from 127.0.0.1:40330
+2018-08-10 10:55:52 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 10:55:52 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:40358
+2018-08-10 10:58:21 INFO     connecting www.google.com:443 from 127.0.0.1:40394
+2018-08-10 10:58:21 INFO     connecting www.google.com:443 from 127.0.0.1:40400
+2018-08-10 10:59:23 INFO     connecting google.com:443 from 127.0.0.1:40426
+2018-08-10 11:00:55 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:40530
+2018-08-10 11:05:33 INFO     connecting www.google.com:443 from 127.0.0.1:41036
+2018-08-10 11:05:33 INFO     connecting adservice.google.com:443 from 127.0.0.1:41038
+2018-08-10 11:05:33 INFO     connecting clients5.google.com:443 from 127.0.0.1:41042
+2018-08-10 11:05:33 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:41044
+2018-08-10 11:05:33 INFO     connecting apis.google.com:443 from 127.0.0.1:41040
+2018-08-10 11:05:33 INFO     connecting notifications.google.com:443 from 127.0.0.1:41046
+2018-08-10 11:05:33 INFO     connecting ogs.google.com:443 from 127.0.0.1:41048
+2018-08-10 11:05:33 INFO     connecting ssl.google-analytics.com:443 from 127.0.0.1:41050
+2018-08-10 11:05:33 INFO     connecting www.gstatic.com:443 from 127.0.0.1:41052
+2018-08-10 11:05:33 INFO     connecting www.google.com:443 from 127.0.0.1:41054
+2018-08-10 11:05:39 INFO     connecting play.google.com:443 from 127.0.0.1:41090
+2018-08-10 11:05:40 INFO     connecting play.google.com:443 from 127.0.0.1:41096
+2018-08-10 11:06:00 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:06:00 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:41102
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:06:18 INFO     connecting play.google.com:443 from 127.0.0.1:41108
+2018-08-10 11:07:29 INFO     connecting clients1.google.com:443 from 127.0.0.1:41130
+2018-08-10 11:07:46 INFO     connecting www.googleapis.com:443 from 127.0.0.1:41150
+2018-08-10 11:11:09 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:41192
+2018-08-10 11:16:24 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:16:24 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:41304
+2018-08-10 11:16:39 INFO     connecting clients2.google.com:443 from 127.0.0.1:41312
+2018-08-10 11:21:30 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:41368
+2018-08-10 11:21:44 INFO     connecting clients1.google.com:443 from 127.0.0.1:41380
+2018-08-10 11:24:26 INFO     connecting chrome-devtools-frontend.appspot.com:443 from 127.0.0.1:41450
+2018-08-10 11:26:36 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:26:36 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:42322
+2018-08-10 11:31:38 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:31:38 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:42446
+2018-08-10 11:33:04 INFO     connecting clients1.google.com:443 from 127.0.0.1:42492
+2018-08-10 11:36:40 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:36:40 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:42550
+2018-08-10 11:41:15 INFO     connecting www.google.com:443 from 127.0.0.1:42612
+2018-08-10 11:41:15 INFO     connecting adservice.google.com:443 from 127.0.0.1:42614
+2018-08-10 11:41:15 INFO     connecting apis.google.com:443 from 127.0.0.1:42616
+2018-08-10 11:41:15 INFO     connecting clients5.google.com:443 from 127.0.0.1:42618
+2018-08-10 11:41:15 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:42620
+2018-08-10 11:41:15 INFO     connecting notifications.google.com:443 from 127.0.0.1:42622
+2018-08-10 11:41:15 INFO     connecting ogs.google.com:443 from 127.0.0.1:42624
+2018-08-10 11:41:15 INFO     connecting ssl.google-analytics.com:443 from 127.0.0.1:42626
+2018-08-10 11:41:15 INFO     connecting www.gstatic.com:443 from 127.0.0.1:42628
+2018-08-10 11:41:15 INFO     connecting www.google.com:443 from 127.0.0.1:42648
+2018-08-10 11:41:16 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:42654
+2018-08-10 11:41:24 INFO     connecting www.googleadservices.com:443 from 127.0.0.1:42662
+2018-08-10 11:41:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:41:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:41:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:41:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:41:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:41:26 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:41:26 INFO     connecting clients4.google.com:443 from 127.0.0.1:42666
+2018-08-10 11:41:27 INFO     connecting notifications.google.com:443 from 127.0.0.1:42672
+2018-08-10 11:41:27 INFO     connecting play.google.com:443 from 127.0.0.1:42674
+2018-08-10 11:41:27 INFO     connecting apis.google.com:443 from 127.0.0.1:42670
+2018-08-10 11:41:28 INFO     connecting play.google.com:443 from 127.0.0.1:42684
+2018-08-10 11:41:29 INFO     connecting clients5.google.com:443 from 127.0.0.1:42690
+2018-08-10 11:41:49 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:41:49 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:42896
+2018-08-10 11:43:16 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:43:16 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:43:16 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:43:16 INFO     connecting clients1.google.com:443 from 127.0.0.1:42922
+2018-08-10 11:44:16 INFO     connecting history.google.com:443 from 127.0.0.1:42946
+2018-08-10 11:44:16 INFO     connecting history.google.com:443 from 127.0.0.1:42948
+2018-08-10 11:44:16 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 11:46:57 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:46:57 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43002
+2018-08-10 11:52:01 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 11:52:01 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43078
+2018-08-10 11:57:01 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43134
+2018-08-10 12:02:01 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43184
+2018-08-10 12:05:57 INFO     connecting clients1.google.com:443 from 127.0.0.1:43244
+2018-08-10 12:07:03 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:07:03 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43266
+2018-08-10 12:12:08 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:12:08 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43350
+2018-08-10 12:14:59 INFO     connecting clients4.google.com:443 from 127.0.0.1:43386
+2018-08-10 12:17:10 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:17:10 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43402
+2018-08-10 12:22:15 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:22:15 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43474
+2018-08-10 12:27:15 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:27:15 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43528
+2018-08-10 12:32:15 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:32:15 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43576
+2018-08-10 12:37:15 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:37:15 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43634
+2018-08-10 12:42:26 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:42:26 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43690
+2018-08-10 12:47:38 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:47:38 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43748
+2018-08-10 12:52:40 WARNING  timed out: mtalk.google.com:5228
+2018-08-10 12:52:40 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:43812
+2018-08-10 12:53:37 INFO     connecting clients4.google.com:443 from 127.0.0.1:43826
+2018-08-10 12:53:52 INFO     connecting www.google.com.hk:443 from 127.0.0.1:43832
+2018-08-10 12:53:52 INFO     connecting www.google.com.hk:443 from 127.0.0.1:43834
+2018-08-10 12:53:56 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:43840
+2018-08-10 12:53:57 INFO     connecting www.gstatic.com:443 from 127.0.0.1:43848
+2018-08-10 12:53:58 INFO     connecting www.google.com:443 from 127.0.0.1:43852
+2018-08-10 12:54:03 INFO     connecting clients5.google.com:443 from 127.0.0.1:43856
+2018-08-10 12:54:03 INFO     connecting clients5.google.com:443 from 127.0.0.1:43858
+2018-08-10 12:54:03 INFO     connecting apis.google.com:443 from 127.0.0.1:43864
+2018-08-10 12:54:03 INFO     connecting ogs.google.com:443 from 127.0.0.1:43868
+2018-08-10 12:54:18 INFO     connecting clients4.google.com:443 from 127.0.0.1:43872
+2018-08-10 12:54:19 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 12:54:20 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 12:54:21 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 12:55:12 INFO     connecting google.com:443 from 127.0.0.1:43892
+2018-08-10 12:55:34 INFO     connecting clients4.google.com:443 from 127.0.0.1:43938
+2018-08-10 12:55:36 INFO     connecting apis.google.com:443 from 127.0.0.1:43942
+2018-08-10 12:55:36 INFO     connecting www.google.com.hk:443 from 127.0.0.1:43944
+2018-08-10 12:55:44 INFO     connecting www.gstatic.com:80 from 127.0.0.1:43954
+2018-08-10 12:56:17 INFO     connecting zh.wikipedia.org:443 from 127.0.0.1:43962
+2018-08-10 12:56:17 INFO     connecting zh.wikipedia.org:443 from 127.0.0.1:43964
+2018-08-10 12:56:51 ERROR    [Errno 104] Connection reset by peer
+2018-08-10 12:56:51 INFO     connecting www.google.com:443 from 127.0.0.1:43994
+2018-08-10 12:56:52 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:43998
+2018-08-10 12:56:52 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:44000
+2018-08-10 12:56:52 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:44002
+2018-08-10 12:56:52 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:44008
+2018-08-10 12:56:52 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:44010
+2018-08-10 12:56:52 INFO     connecting s2.googleusercontent.com:443 from 127.0.0.1:44018
