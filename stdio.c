@@ -1,9 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	int c ;
-	c = getchar();
-	putchar(c);
-	printf("\n");
+	printf("_STDIO_H:%d\n",_STDIO_H);
 	return 0;
 }
